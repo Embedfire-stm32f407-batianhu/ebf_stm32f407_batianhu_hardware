@@ -1,0 +1,13 @@
+
+找元器件封装的方法：
+
+参考如下帖子：
+
+【芯片之家】电子元器件 PCB 封装下载大全，包含STM32全系列，有AD，PAD，orCAD格式
+
+http://www.firebbs.cn/forum.php?mod=viewthread&tid=18753&fromuid=64
+
+(出处: 野火论坛)
+
+
+--野火科技
